@@ -3,7 +3,7 @@ This is a website to act as a recipe book for my favorite recipes! It's the firs
 - Homepage !
 - Subpages !
 - Images (JPEGs, GIFs, PNGs, and SVGs)
-- Bold and Italics
+- Bold and Italics !
 - Unordered lists and ordered lists
 - Different size headings
 - Utlizing paragraph tags
