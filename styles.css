@@ -27,10 +27,17 @@ body {
     padding-left: 20px;
 }
 
+.imgDesc {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .img {
     height: auto;
     width: 252px;
     display: inline-block;
+    padding-left: 20px;
 }
 
 .text {
