@@ -1,0 +1,40 @@
+/* * {
+    outline: 1px solid red;
+} */
+
+body {
+    background-color: #658CBB;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    color: #0e1111;
+}
+
+#title {
+    text-align: center;
+    font-size: 75px;
+    border-style: dashed;
+    margin: 0px;
+    padding:5px 5px;
+}
+
+.blurb {
+    text-align: center;
+}
+
+.header {
+    padding-left: 20px;
+}
+
+.img {
+    height: auto;
+    width: 252px;
+    display: inline-block;
+}
+
+.text {
+    width: 600px;
+    display:inline-block;
+    margin: 0px;
+}
